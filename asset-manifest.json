@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/earthCycleBrisbane/static/css/main.d1b05096.chunk.css",
+    "main.js": "/earthCycleBrisbane/static/js/main.beab72de.chunk.js",
+    "main.js.map": "/earthCycleBrisbane/static/js/main.beab72de.chunk.js.map",
+    "runtime-main.js": "/earthCycleBrisbane/static/js/runtime-main.cd175eff.js",
+    "runtime-main.js.map": "/earthCycleBrisbane/static/js/runtime-main.cd175eff.js.map",
+    "static/js/2.756bb2dc.chunk.js": "/earthCycleBrisbane/static/js/2.756bb2dc.chunk.js",
+    "static/js/2.756bb2dc.chunk.js.map": "/earthCycleBrisbane/static/js/2.756bb2dc.chunk.js.map",
+    "index.html": "/earthCycleBrisbane/index.html",
+    "precache-manifest.53eca02af7e952de7c96c5004968225a.js": "/earthCycleBrisbane/precache-manifest.53eca02af7e952de7c96c5004968225a.js",
+    "service-worker.js": "/earthCycleBrisbane/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/earthCycleBrisbane/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.756bb2dc.chunk.js.LICENSE.txt": "/earthCycleBrisbane/static/js/2.756bb2dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/earthCycleBrisbane/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd175eff.js",
+    "static/js/2.756bb2dc.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.beab72de.chunk.js"
+  ]
+}
